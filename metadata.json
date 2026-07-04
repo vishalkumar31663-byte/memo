@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Memory Showcase",
+  "description": "A minimalist, content-focused discovery platform and interactive simulator for cinematic memory websites, featuring custom profiles, curated episodes, photo galleries, memory matches, and jigsaw puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
